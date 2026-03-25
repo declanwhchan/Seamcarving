@@ -18,4 +18,5 @@ void set_pixel(struct rgb_img *im, int y, int x, int r, int g, int b);
 void destroy_image(struct rgb_img *im);
 void print_grad(struct rgb_img *grad);
 
+
 #endif
